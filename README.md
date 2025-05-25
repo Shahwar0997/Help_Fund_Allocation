@@ -4,8 +4,8 @@
 HELP International wants to allocate $10M in aid based on socio-economic and health indicators. We apply clustering (unsupervised learning) to group countries and prioritize funding.
 
 ## 📊 Dataset
-- Source: [Insert data source link here, e.g., Kaggle, WHO, etc.]
-- Features: [List key features like GDP, Health Index, Infant Mortality, etc.]
+- Source: https://www.kaggle.com/datasets/gauravduttakiit/help-international
+- Features: [GDP, Health Index, Infant Mortality, Imports, Exports, Life Expectancy, Income]
 
 ## 🔍 Methodology
 1. **Data Cleaning and EDA**
